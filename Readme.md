@@ -1,5 +1,5 @@
 
-# Financial Lab or Live Cheat Sheet
+# Financial Time Series Lab or Live Cheat Sheet
 
 
 ```python
@@ -201,7 +201,7 @@ plt.show()
 ```
 
 
-![png](Financial%20Lab_files/Financial%20Lab_12_0.png)
+![png](Financial%20Lab_12_0.png)
 
 
 
@@ -562,7 +562,7 @@ plt.legend()
 
 
 
-![png](Financial%20Lab_files/Financial%20Lab_20_1.png)
+![png](Financial%20Lab_20_1.png)
 
 
 ## Portfolio
